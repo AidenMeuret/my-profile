@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: linear-gradient(to right, #ff0000, #ff8c00, #ffff00, #008000, #0000ff, #4b0082, #ee82ee);
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem 0;
+    background: linear-gradient(to right, #ff0000, #ff8c00, #ffff00, #008000, #0000ff, #4b0082, #ee82ee);
+    color: #fff;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 1rem 0;
+}
